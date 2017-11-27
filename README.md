@@ -22,4 +22,4 @@ jupyter notebook Sentiment\ Analysis\ with\ TFLearn.ipynb
 ```
 
 ### Take a look
-You can open the jupyter notebook directly in github [Sentiment Analysis with TFLearn.ipynb](https://github.com/sbatururimi/sentiment_analysis_TFLearn/blob/master/sentiment-analysis/Sentiment%20Analysis%20with%20TFLearn.ipynb)
+You can open the jupyter notebook directly in github [Sentiment Analysis with TFLearn.ipynb](https://github.com/sbatururimi/Handwritten-Digit-Recognition-TFLearn/blob/master/Handwritten%20Digit%20Recognition%20with%20TFLearn.ipynb)
